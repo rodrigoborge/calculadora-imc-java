@@ -4,6 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java Version](https://img.shields.io/badge/Java-8%2B-blue)](https://www.java.com/)
+![GitHub watchers](https://img.shields.io/github/watchers/rodrigoborge/calculadora-imc-java)
 
 Este repositório contém uma implementação de uma calculadora de Índice de Massa Corporal (IMC) desenvolvida em Java. O IMC é uma medida que avalia a relação entre a massa corporal e a altura de uma pessoa, sendo uma ferramenta amplamente utilizada para avaliar a saúde e o peso corporal.
 
