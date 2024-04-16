@@ -50,6 +50,9 @@ A calculadora de IMC aqui apresentada oferece uma interface de linha de comando 
 
 6. Siga as instruções na tela para inserir seu peso e altura e obter o resultado do IMC.
 
+![Resultado](img/imc-result.png)
+
+
 ## Contribuindo
 
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias, novas funcionalidades ou encontrar algum problema, sinta-se à vontade para abrir uma issue ou enviar um pull request.
