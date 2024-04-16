@@ -22,28 +22,19 @@ public class IMCCalculator {
 
         //Result shown to the user
         if (imcResult <= 18.5){
-            System.out.printf("Seu IMC é de %.2f kg/m² e você está com Baixo " +
-                    "Peso",imcResult);
+            System.out.printf("Seu IMC é de %.2f kg/m² e você está com Baixo Peso", imcResult);
         } else if (imcResult <= 24.99){
-            System.out.printf("Seu IMC é de %.2f kg/m² e você está no peso " +
-                            "Normal.",
-                    imcResult);
+            System.out.printf("Seu IMC é de %.2f kg/m² e você está no peso Normal.", imcResult);
         } else if (imcResult <= 29.99) {
-            System.out.printf("Seu IMC é de %.2f kg/m² e você está com " +
-                    "Sobrepeso.",imcResult);
+            System.out.printf("Seu IMC é de %.2f kg/m² e você está com Sobrepeso.", imcResult);
         } else if (imcResult <= 34.99) {
-            System.out.printf("Seu IMC é de %.2f kg/m² e você está com " +
-                    "Obesidade Grau I.",imcResult);
+            System.out.printf("Seu IMC é de %.2f kg/m² e você está com Obesidade Grau I.", imcResult);
         } else if (imcResult <= 39.99) {
-            System.out.printf("Seu IMC é de %.2f kg/m² e você está com " +
-                    "Obesidade Grau II.", imcResult);
+            System.out.printf("Seu IMC é de %.2f kg/m² e você está com Obesidade Grau II.", imcResult);
         } else if (imcResult >= 40) {
-            System.out.printf("Seu IMC é de %.2f kg/m² e você está com " +
-                    "Obesidade Mórbida.", imcResult);
+            System.out.printf("Seu IMC é de %.2f kg/m² e você está com Obesidade Mórbida.", imcResult);
         }
 
-        System.out.println("\nMantenha-se ativo, pela sua Saúde! Procure um" +
-                " " +
-                "nutricionista.");
+        System.out.println("\nMantenha-se ativo, pela sua Saúde! Procure um nutricionista.");
     }
 }
