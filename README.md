@@ -17,11 +17,11 @@ Este repositório contém uma implementação de uma calculadora de Índice de M
 
 A calculadora de IMC aqui apresentada oferece uma interface de linha de comando fácil de usar, permitindo que os usuários insiram seu peso e altura para calcular seu IMC. Além disso, a aplicação classifica o IMC resultante em categorias como abaixo do peso, peso normal, sobrepeso e obesidade, fornecendo uma visão geral do estado atual de saúde com base nessas classificações padrão.
 
-<br><br> <div align="center">
+<br> <div align="center">
 
 ![Resultado](img/imc-result.png)
 
-</div> <br><br>
+</div> <br>
 
 ## Funcionalidades
 
