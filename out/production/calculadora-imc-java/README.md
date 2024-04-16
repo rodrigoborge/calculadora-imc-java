@@ -12,9 +12,9 @@ A calculadora de IMC aqui apresentada oferece uma interface de linha de comando 
 
 ## Funcionalidades
 
-- Calcula o IMC com base no peso e altura inseridos pelo usuário.
-- Classifica o IMC em categorias: abaixo do peso, peso normal, sobrepeso, obesidade.
-- Interface de linha de comando simples e fácil de usar.
+-   Calcula o IMC com base no peso e altura inseridos pelo usuário.
+-   Classifica o IMC em categorias: abaixo do peso, peso normal, sobrepeso, obesidade.
+-   Interface de linha de comando simples e fácil de usar.
 
 ## Como usar
 
@@ -51,7 +51,6 @@ A calculadora de IMC aqui apresentada oferece uma interface de linha de comando 
 6. Siga as instruções na tela para inserir seu peso e altura e obter o resultado do IMC.
 
 ![Resultado](img/imc-result.png)
-
 
 ## Contribuindo
 
