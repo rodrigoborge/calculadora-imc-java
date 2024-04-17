@@ -1,10 +1,13 @@
 # Calculadora de IMC em Java
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
+<div align="center">
+    
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java Version](https://img.shields.io/badge/Java-8%2B-blue)](https://www.java.com/)
-![GitHub watchers](https://img.shields.io/github/watchers/rodrigoborge/calculadora-imc-java)
+![GitHub repo size](https://img.shields.io/github/repo-size/rodrigoborge/calculadora-imc-java)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/rodrigoborge/calculadora-imc-java)
+
+</div><br><br>
 
 <div align="center">
 
