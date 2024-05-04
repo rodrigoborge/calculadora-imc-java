@@ -11,7 +11,7 @@
 
 <div align="center">
 
-![Java](img/java-logo.png)<br><br>
+![Java](img/capa-repositorio.png)<br><br>
 
 </div><br><br>
 
